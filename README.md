@@ -1,6 +1,6 @@
 <div align=center>
         <p align=center>
-            <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="180">
+            <img src="https://i.giphy.com/media/FlPJcTplkfefDCKq2b/200w.webp" width="200" height="180">
         </p>
         <h1 align="center">Hi 👋, I'm Kaoutar SOUGRATI</h1>
         <h3 align="center">A Software engineer and a blockchain developper. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below</h3>
