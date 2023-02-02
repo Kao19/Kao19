@@ -1,6 +1,6 @@
 <div align=center>
         <p align=center>
-            <img src="https://media3.giphy.com/media/KphDFbotQHzU5LBnBu/giphy.gif?cid=ecf05e47ehw52owrthyhlpuo3o7exbpr9k9bcrxvz25376vy&rid=giphy.gif&ct=g" width="150">
+            <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="150">
         </p>
         <h1 align="center">Hi 👋, I'm Kaoutar SOUGRATI</h1>
         <h3 align="center">A Software engineer and a blockchain developper. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below</h3>
@@ -21,7 +21,7 @@
             </a>
         </p>
         <a href="https://github.com/kao19?tab=views">
-           <img src="https://komarev.com/ghpvc/?username=kao19&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutarsougrati" />
+           <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=kao19&label=Views&color=brightgreen&style=for-the-badge" />
         </a>
         <a href="https://github.com/kao19?tab=repositories&sort=stargazers">
             <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=212F3C&labelColor=566573&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kao19"/>
@@ -38,7 +38,7 @@
     <h1>🛠️ My Skills</h1>
     <details align="" open>
         <summary> 
-            Languages
+            <b>Languages</b>
         </summary>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
         <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -52,7 +52,7 @@
     </details>    
     <details align="" open>
     <summary> 
-        Frameworks
+        <b>Frameworks</b>
     </summary>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -65,7 +65,7 @@
     </details>
     <details align="" open>
   <summary> 
-    Databases
+        <b>Databases</b>
   </summary>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -112,7 +112,7 @@
 
 <details align="" open>
   <summary> 
-    Others
+    <b>Others</b>
   </summary>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
