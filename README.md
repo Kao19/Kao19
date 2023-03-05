@@ -3,6 +3,16 @@
             <img src="https://i.giphy.com/media/FlPJcTplkfefDCKq2b/200w.webp" width="200" height="180">
         </p>
         <h1 align="center">Hi 👋, I'm Kaoutar SOUGRATI</h1>
+        <a href="https://github.com/kao19?tab=views">
+           <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=kao19&label=Views&color=brightgreen&style=for-the-badge" />
+        </a>
+        <a href="https://github.com/kao19?tab=repositories&sort=stargazers">
+            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=212F3C&labelColor=566573&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kao19"/>
+        </a>
+        <a href="https://github.com/kao19?tab=followers">
+            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kao19?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+        </a>
+        <br>
         <h3 align="center">A Software engineer and a blockchain developper. Welcome to my Github profile! If you need additional information about my public projects, you can reach me through:</h3>
 </div>
 
@@ -23,19 +33,7 @@
         <br>
 <br>
 <br>
-<br>
-<br>
-        <a href="https://github.com/kao19?tab=views">
-           <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=kao19&label=Views&color=brightgreen&style=for-the-badge" />
-        </a>
-        <a href="https://github.com/kao19?tab=repositories&sort=stargazers">
-            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=212F3C&labelColor=566573&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kao19"/>
-        </a>
-        <a href="https://github.com/kao19?tab=followers">
-            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kao19?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-        </a>
 </div>
-<br>
 <br>
 <br>
 
