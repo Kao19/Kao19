@@ -85,7 +85,15 @@
         </p>
 </details>
 
-        
+<details align="" open> 
+        <summary><b>Mobile</b></summary>
+        <br/>
+        <p> 
+            <a href="https://www.android.com/">
+                 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+            </a> 
+        </p>
+</details>
         
 <details align="" open> 
             <summary><b>Software & Tools</b></summary>
