@@ -22,9 +22,7 @@
         </p>
         <br>
 <br>
-<br><br>
 <br>
-<br><br>
 <br>
 <br>
         <a href="https://github.com/kao19?tab=views">
