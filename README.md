@@ -3,7 +3,7 @@
             <img src="https://i.giphy.com/media/FlPJcTplkfefDCKq2b/200w.webp" width="200" height="180">
         </p>
         <h1 align="center">Hi 👋, I'm Kaoutar SOUGRATI</h1>
-        <h3 align="center">A Software engineer and a blockchain developper. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below</h3>
+        <h3 align="center">A Software engineer and a blockchain developper. Welcome to my Github profile! If you need additional information about my public projects, you can reach me through:</h3>
 </div>
 
 
@@ -20,6 +20,13 @@
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
             </a>
         </p>
+        <br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br>
         <a href="https://github.com/kao19?tab=views">
            <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=kao19&label=Views&color=brightgreen&style=for-the-badge" />
         </a>
@@ -86,6 +93,16 @@
         </p>
 </details>
 
+        <details align="" open> 
+            <summary><b>Mobile</b></summary>
+            <br/>
+            <p align=""> 
+                <a href="https://www.android.com/">
+                    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+                </a>   
+            </p>
+        </details
+        
 <details align="" open> 
             <summary><b>Software & Tools</b></summary>
             <br/>
@@ -109,6 +126,20 @@
             </p>
 </details>
 
+        <details align="" open> 
+            <summary><b>AI</b></summary>
+            <br/>
+            <p align=""> 
+                
+                <a href="#">
+                    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+                </a>
+                <a href="#">
+                    <img alt="Keras" src="https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras&logoColor=white">
+                </a>
+            </p>
+        </details>
+        
 
 <details align="" open>
   <summary> 
