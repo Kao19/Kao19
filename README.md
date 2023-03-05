@@ -85,15 +85,7 @@
         </p>
 </details>
 
-        <details align="" open> 
-            <summary><b>Mobile</b></summary>
-            <br/>
-            <p align=""> 
-                <a href="https://www.android.com/">
-                    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-                </a>   
-            </p>
-        </details>
+        
         
 <details align="" open> 
             <summary><b>Software & Tools</b></summary>
@@ -118,19 +110,7 @@
             </p>
 </details>
 
-        <details align="" open> 
-            <summary><b>AI</b></summary>
-            <br/>
-            <p align=""> 
-                
-                <a href="#">
-                    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-                </a>
-                <a href="#">
-                    <img alt="Keras" src="https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras&logoColor=white">
-                </a>
-            </p>
-        </details>
+       
         
 
 <details align="" open>
