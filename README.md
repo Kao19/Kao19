@@ -92,6 +92,9 @@
             <a href="https://www.android.com/">
                  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
             </a> 
+            <a>
+                 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0292ff?style=for-the-badge&logo=flutter&logoColor=white">
+            </a> 
         </p>
 </details>
         
