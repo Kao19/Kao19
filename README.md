@@ -131,6 +131,7 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/arduino-4fccf3?style=for-the-badge&logo=arduino&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/unity-010147?style=for-the-badge&logo=unity&logoColor=white">
 </details> 
 </div>
 
