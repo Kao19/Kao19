@@ -119,9 +119,8 @@
                     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
                 </a>
                 <img src="https://img.shields.io/badge/slack-2EB67D?style=for-the-badge&logo=slack&logoColor=white"/>
-                    
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/trello-00c2e0?style=for-the-badge&logo=trello&logoColor=white">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/jira-0607ac?style=for-the-badge&logo=jira&logoColor=white">
+                <img src="https://img.shields.io/badge/trello-00c2e0?style=for-the-badge&logo=trello&logoColor=white"/>
+                <img src="https://img.shields.io/badge/jira-0607ac?style=for-the-badge&logo=jira&logoColor=white"/>
             </p>
 </details>
 
