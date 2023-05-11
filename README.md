@@ -61,6 +61,7 @@
     <img alt="VueJs" src="https://img.shields.io/badge/Vue.Js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/flask-0f1114?style=for-the-badge&logo=flask&logoColor=white">
     </details>
     <details align="" open>
   <summary> 
@@ -118,6 +119,9 @@
                     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
                 </a>
                 <img src="https://img.shields.io/badge/slack-2EB67D?style=for-the-badge&logo=slack&logoColor=white"/>
+                    
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/trello-00c2e0?style=for-the-badge&logo=trello&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/jira-0607ac?style=for-the-badge&logo=jira&logoColor=white">
             </p>
 </details>
 
@@ -132,6 +136,7 @@
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/arduino-4fccf3?style=for-the-badge&logo=arduino&logoColor=white">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/unity-010147?style=for-the-badge&logo=unity&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/firebase-f8b806?style=for-the-badge&logo=firebase&logoColor=white">
 </details> 
 </div>
 
