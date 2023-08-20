@@ -58,6 +58,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white">       
     <img alt="VueJs" src="https://img.shields.io/badge/Vue.Js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white">
@@ -137,7 +138,6 @@
     <img alt="GitHub Pages" src="https://img.shields.io/badge/unity-010147?style=for-the-badge&logo=unity&logoColor=white">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/firebase-f8b806?style=for-the-badge&logo=firebase&logoColor=white">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/figma-b648a5?style=for-the-badge&logo=figma&logoColor=white">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white">
 </details> 
 </div>
 
